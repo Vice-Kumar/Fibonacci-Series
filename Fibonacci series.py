@@ -14,3 +14,4 @@ else:
    print("Fibonacci sequence:")  
    for i in range(nterms):  
        print(Fib_Recurs(i),end=' , ')
+print("...")
